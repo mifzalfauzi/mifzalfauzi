@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mifzalfauzi.
+- 👋 Hi, I’m Mifzal.
 - I’m interested in Software Development and Cybersecurity.
 - 🌱 I’m currently learning on Django, JavaScript and PHP.
 
