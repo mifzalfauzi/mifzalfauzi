@@ -1,7 +1,2 @@
-- 👋 Hi, I’m Mifzal.
-- I’m interested in Software Development.
-- 🌱 I’m currently learning on C# and the .NET Framework.
-
-Reach me at mifzalmaf@gmail.com or through my LinkedIn : linkedin.com/in/mifzalfauzi
-
+I'm Mifzal. Currently implementing C# and the .NET framework in Software Development. You can reach me via email at mifzalmaf@gmail.com or through my LinkedIn profile at linkedin.com/in/mifzalfauzi.
 
